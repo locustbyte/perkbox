@@ -1,0 +1,23 @@
+.selected {
+  background-color: lightblue;
+}
+
+.panel {
+    padding: 20px;
+    border-radius: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: silver;
+}
+
+.field {
+    width: 100%;
+    min-height: 26px;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+label{
+  margin-top: 10px;
+}
